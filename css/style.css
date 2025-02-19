@@ -1,0 +1,33 @@
+boby{
+  margin:0;
+}
+ 
+  .images{
+
+    padding: 50px 0;
+  }
+.container{
+   margin: 0 auto;
+   overflow: hidden;
+   width: 960px;
+   border: 1px solid black;
+}
+.container h1{
+  font-size: 40px;
+}
+.image_item{
+  box-sizing: border-box;
+  width: 25%;
+  float: left;
+  padding: 0 5px;
+  
+
+}
+.image_item img{
+  width: 100%;
+}
+ i{
+ 
+  font-size: 50px;
+  margin: 0 auto;
+}
